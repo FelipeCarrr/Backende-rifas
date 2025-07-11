@@ -1,0 +1,4 @@
+# Ignorar entorno y dependencias
+.env
+.env.production
+node_modules/
